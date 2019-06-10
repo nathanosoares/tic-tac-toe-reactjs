@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  background: #f8f9fd;
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  padding: 50px;
+}
+
+.btn-restart {
+  background: #009fff;
+  margin-top: 10px;
+  border-radius: 5px;
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+}
