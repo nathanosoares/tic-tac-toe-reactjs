@@ -1,4 +1,4 @@
-## Jogo da Velha baseado em [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+## Jogo da Velha baseado no [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 Este projeto foi uma preparação para [Semana OmniStack 7.0](https://rocketseat.com.br/week-7) 🚀
 
