@@ -17,7 +17,6 @@ export const SectionStyled = styled.section`
 `
 
 export const ResetButtonStyled = styled.span`
-    background: #fff;
     border: none;
     padding: .6rem;
     font-size: 1.2rem;
